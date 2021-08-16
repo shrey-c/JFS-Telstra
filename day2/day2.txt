@@ -1,0 +1,3 @@
+Learnt about JDBC
+Connected to database
+Added row entry using JAVA-JDBC
